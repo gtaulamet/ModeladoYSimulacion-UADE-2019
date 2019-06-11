@@ -1,0 +1,9 @@
+D:\Proyectos\ModeladoYSimulacion-EULER\MetodoEuler\bin\Debug\netstandard2.0\MetodoEuler.deps.json
+D:\Proyectos\ModeladoYSimulacion-EULER\MetodoEuler\bin\Debug\netstandard2.0\MetodoEuler.dll
+D:\Proyectos\ModeladoYSimulacion-EULER\MetodoEuler\bin\Debug\netstandard2.0\MetodoEuler.pdb
+D:\Proyectos\ModeladoYSimulacion-EULER\MetodoEuler\obj\Debug\netstandard2.0\MetodoEuler.csproj.CoreCompileInputs.cache
+D:\Proyectos\ModeladoYSimulacion-EULER\MetodoEuler\obj\Debug\netstandard2.0\MetodoEuler.AssemblyInfoInputs.cache
+D:\Proyectos\ModeladoYSimulacion-EULER\MetodoEuler\obj\Debug\netstandard2.0\MetodoEuler.AssemblyInfo.cs
+D:\Proyectos\ModeladoYSimulacion-EULER\MetodoEuler\obj\Debug\netstandard2.0\MetodoEuler.dll
+D:\Proyectos\ModeladoYSimulacion-EULER\MetodoEuler\obj\Debug\netstandard2.0\MetodoEuler.pdb
+D:\Proyectos\ModeladoYSimulacion-EULER\MetodoEuler\obj\Debug\netstandard2.0\MetodoEuler.csprojResolveAssemblyReference.cache

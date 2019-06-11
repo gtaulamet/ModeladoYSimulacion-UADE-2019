@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModeladoYSimulacion-EULER", "ModeladoYSimulacion-EULER\ModeladoYSimulacion-EULER.csproj", "{06BB169D-CFC3-40CD-818A-8312F6D776EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoEuler", "MetodoEuler\MetodoEuler.csproj", "{ADA7B988-A758-435B-A139-B9F086C6ACBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Debug|ARM.Build.0 = Debug|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Debug|x64.Build.0 = Debug|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Debug|x86.Build.0 = Debug|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Release|ARM.ActiveCfg = Release|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Release|ARM.Build.0 = Release|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Release|x64.ActiveCfg = Release|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Release|x64.Build.0 = Release|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Release|x86.ActiveCfg = Release|Any CPU
+		{06BB169D-CFC3-40CD-818A-8312F6D776EA}.Release|x86.Build.0 = Release|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Debug|ARM.Build.0 = Debug|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Debug|x64.Build.0 = Debug|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Debug|x86.Build.0 = Debug|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Release|ARM.ActiveCfg = Release|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Release|ARM.Build.0 = Release|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Release|x64.ActiveCfg = Release|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Release|x64.Build.0 = Release|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Release|x86.ActiveCfg = Release|Any CPU
+		{ADA7B988-A758-435B-A139-B9F086C6ACBE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90111275-4893-4A71-BBA9-D476E4F7FA6A}
+	EndGlobalSection
+EndGlobal
